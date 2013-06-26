@@ -1,0 +1,3 @@
+Sole purpose of this file is to demo git conflict and how to resolve.
+This is line 2
+This is line 3
